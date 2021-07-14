@@ -1,4 +1,4 @@
-### 👋 Hi there, I’m Faisal-Daulay
+### 👋 Hi there, I’m Faisal Daulay
 
 ## I'm a Website Developer and Software Engineer!
 - 🔭 I'm working as a freelancer!
