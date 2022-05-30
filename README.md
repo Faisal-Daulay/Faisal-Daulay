@@ -1,9 +1,9 @@
 ### 👋 Hi there, I’m Faisal Daulay
 
-## I'm a Website Developer and Software Engineer!
-- 🔭 I'm working as a freelancer!
+## I'm a Backend Developer
+- 🔭 I'm working as a freelancer
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning focus on Website Developers and Software Engineer
+- 🌱 I’m currently learning focus on Backend Developer
 
 
 ### Connect with me:
