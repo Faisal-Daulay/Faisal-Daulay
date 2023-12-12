@@ -8,7 +8,7 @@ i've been learning to code for 3 years, after switching careers. i started with 
 
 *   🌍  I'm based in Medan, Sumatera Utara
 *   ✉️  You can contact me at [faisalajo8@gmail.com](mailto:faisalajo8@gmail.com)
-*   🧠  I'm learning React, Express JS, Node JS
+*   🧠  I'm learning React, Laravel
 
 <a href="https://www.github.com/Faisal-Daulay" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Faisal-Daulay?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -19,11 +19,3 @@ src="https://img.shields.io/github/followers/Faisal-Daulay?logo=github&style=for
 
 ### Socials
 <p align="left"> <a href="https://www.facebook.com/faisal.ajo.97" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/Faisal-Daulay" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/faisal_daulay18" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jufrisal-humairi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Faisal-Daulay"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Faisal-Daulay&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/Faisal-Daulay" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faisal-Daulay&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
