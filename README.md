@@ -1,4 +1,6 @@
-Hello! My name is Jufrisal Humairi, and I'm a passionate Web Developer with three years of experience in the field. My journey into coding started with HTML and CSS, and since then, I've developed a deep love for web development.
+Hi 👋 My name is Jufrisal Humairi
+================================= 
+and I'm a passionate Web Developer with three years of experience in the field. My journey into coding started with HTML and CSS, and since then, I've developed a deep love for web development.
 
 I am based in Medan, Sumatera Utara, and I'm constantly looking for exciting projects to work on. Currently, I'm expanding my skill set by learning React and Laravel. If you have any projects or opportunities you'd like to discuss, please feel free to reach out to me at [jufrisalatwork@gmail.com](mailto:jufrisalatwork@gmail.com).
 
