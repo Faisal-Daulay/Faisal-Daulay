@@ -112,7 +112,7 @@ src="https://img.shields.io/github/followers/Faisal-Daulay?logo=github&style=for
       alt="MySQL"
     />
   </a>
-</p>;
+</p>
 
 
 
@@ -162,5 +162,5 @@ src="https://img.shields.io/github/followers/Faisal-Daulay?logo=github&style=for
       height="32"
     />
   </a>
-</p>;
+</p>
 
