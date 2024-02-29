@@ -4,11 +4,11 @@ Hi 👋 My name is Jufrisal Humairi
 Web Developer
 -------------
 
-i've been learning to code for 3 years, after switching careers. i started with HTML and CSS, but have really found a passion for web development
+Hello! My name is Jufrisal Humairi, and I'm a passionate Web Developer with three years of experience in the field. My journey into coding started with HTML and CSS, and since then, I've developed a deep love for web development.
 
-*   🌍  I'm based in Medan, Sumatera Utara
-*   ✉️  You can contact me at [jufrisalatwork@gmail.com](mailto:jufrisalatwork@gmail.com)
-*   🧠  I'm learning React, Laravel
+I am based in Medan, Sumatera Utara, and I'm constantly looking for exciting projects to work on. Currently, I'm expanding my skill set by learning React and Laravel. If you have any projects or opportunities you'd like to discuss, please feel free to reach out to me at [jufrisalatwork@gmail.com](mailto:jufrisalatwork@gmail.com).
+
+Thank you for considering me for your web development needs. I look forward to potentially collaborating with you!
 
 <a href="https://www.github.com/Faisal-Daulay" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Faisal-Daulay?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
