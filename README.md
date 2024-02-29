@@ -1,4 +1,4 @@
-Hi 👋 My name is Faisal D
+Hi 👋 My name is Jufrisal Humairi
 =================================
 
 Web Developer
@@ -7,7 +7,7 @@ Web Developer
 i've been learning to code for 3 years, after switching careers. i started with HTML and CSS, but have really found a passion for web development
 
 *   🌍  I'm based in Medan, Sumatera Utara
-*   ✉️  You can contact me at [faisalajo8@gmail.com](mailto:faisalajo8@gmail.com)
+*   ✉️  You can contact me at [jufrisalatwork@gmail.com](mailto:jufrisalatwork@gmail.com)
 *   🧠  I'm learning React, Laravel
 
 <a href="https://www.github.com/Faisal-Daulay" target="_blank" rel="noreferrer"><img
