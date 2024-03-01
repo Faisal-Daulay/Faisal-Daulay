@@ -15,7 +15,6 @@ Thank you for considering me for your web development needs. I look forward to p
 ### Socials
 <p align="left">
   <a href="https://www.facebook.com/faisal.ajo.97" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>&nbsp;
-  <a href="https://www.github.com/Faisal-Daulay" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>&nbsp;
   <a href="http://www.instagram.com/faisal_daulay18" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/jufrisal-humairi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
