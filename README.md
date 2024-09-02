@@ -7,9 +7,9 @@ Web Developer
 Hi there! I'm a dedicated Web Developer with three years of hands-on experience in crafting dynamic and responsive websites. My coding journey began with HTML and CSS, igniting a passion for web development that has only grown stronger with time.
 
 🚀 Expertise: Backend and Frontend Development <br/>
-🌍 Location: Medan, Sumatera Utara 
-💼 Current Focus: Mastering Laravel, React.js, and Next.js 
-✉️ Get in Touch: jufrisalatwork@gmail.com
+🌍 Location: Medan, Sumatera Utara <br/>
+💼 Current Focus: Mastering Laravel, React.js, and Next.js <br/>
+✉️ Get in Touch: jufrisalatwork@gmail.com <br/>
 
 
 ### Badges
