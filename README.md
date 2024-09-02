@@ -4,11 +4,12 @@ Hi 👋 My name is Jufrisal Humairi
 Web Developer
 -------------
 
-and I'm a passionate Web Developer with three years of experience in the field. My journey into coding started with HTML and CSS, and since then, I've developed a deep love for web development.
+Hi there! I'm a dedicated Web Developer with three years of hands-on experience in crafting dynamic and responsive websites. My coding journey began with HTML and CSS, igniting a passion for web development that has only grown stronger with time.
 
-* 🌍  I'm based in Medan, Sumatera Utara
-* ✉️  You can contact me at [jufrisalatwork@gmail.com](mailto:jufrisalatwork@gmail.com)
-* 🧠  I'm learning Laravel, React js, Next js
+🚀 Expertise: Backend and Frontend Development 
+🌍 Location: Medan, Sumatera Utara 
+💼 Current Focus: Mastering Laravel, React.js, and Next.js 
+✉️ Get in Touch: jufrisalatwork@gmail.com
 
 
 ### Badges
